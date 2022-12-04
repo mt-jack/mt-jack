@@ -27,9 +27,6 @@
 
 - 💬 Ask me about **I'm a Fivem Developer (GTA 5 FiveM server and FiveM scripts development or FiveM bugs fixing) with more than 3 years of experience. Customer satisfaction is my main aim and I am desperate to deliver my order on time. Please try me to serve you and see my efficiency compared to others. It will be my complete pleasure to serve every client.**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
