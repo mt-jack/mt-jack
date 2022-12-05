@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/kazi_shamim/)
 
-- 🌱 I’m currently learning <a href="https://www.fiverr.com/kazi_shamim/" target="blank">**FiveM bugs fixing**</a>
+- 🌱 I’m currently learning <a href="https://www.fiverr.com/kazi_shamim/" target="_blank">**FiveM bugs fixing**</a>
 
 - 👯 I’m looking to collaborate on [https://www.fiverr.com/kazi_shamim/](https://www.fiverr.com/kazi_shamim/)
 
