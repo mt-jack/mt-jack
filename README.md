@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm MT_JACK</h1>
 
-<p align="center"> <a href="https://www.fiverr.com/kazi_shamim/" target="blank"><img style="height:auto;" alt="" width="260" height="260" class="avatar avatar-user width-full border color-bg-default" src="https://avatars.githubusercontent.com/u/75236025?v=4"></a> </p>
+<p align="center"> <a href="https://www.fiverr.com/kazi_shamim/" target="_blank"><img style="height:auto;" alt="" width="260" height="260" class="avatar avatar-user width-full border color-bg-default" src="https://avatars.githubusercontent.com/u/75236025?v=4"></a> </p>
 
-<h3 align="center"> <a href="https://www.fiverr.com/kazi_shamim/" target="blank"> I'm a Fivem Developer(GTA 5 FiveM server and FiveM scripts development or FiveM bugs fixing).</a></h3>
+<h3 align="center"> <a href="https://www.fiverr.com/kazi_shamim/" target="_blank"> I'm a Fivem Developer(GTA 5 FiveM server and FiveM scripts development or FiveM bugs fixing).</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mt-jack&label=Profile%20views&color=0e75b6&style=flat" alt="mt-jack" /> </p>
 
