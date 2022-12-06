@@ -74,9 +74,9 @@
   <img src="https://profile-counter.glitch.me/mt-jack/count.svg" />
 </p>
 
-<img align="left" alt="MT_JACK GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=mt-jack&show_icons=true&hide_border=false&icon_color=FFE400&theme=tokyonight&border_color=black" />
+<img align="center" alt="MT_JACK GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=mt-jack&show_icons=true&hide_border=false&icon_color=FFE400&theme=tokyonight&border_color=black" />
 
-<img align="left" alt="MT_JACK GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mt-jack&show_icons=true&hide_border=false&icon_color=FFE400&theme=tokyonight&border_color=black" />
+<img align="center" alt="MT_JACK GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mt-jack&show_icons=true&hide_border=false&icon_color=FFE400&theme=tokyonight&border_color=black" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mt-jack&" alt="mt-jack" /></p>
 
