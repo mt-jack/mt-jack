@@ -69,8 +69,6 @@
 
 <p><a href="https://www.buymeacoffee.com/"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mrnabin" /></a><a href="https://ko-fi.com/mt_jack"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mrnabin" /></a><a href="https://www.fiverr.com/kazi_shamim/"> <img align="left" src="https://i.postimg.cc/SRmWKsvb/fiverr-logo.png" height="50" width="210" alt="mrnabin" /></a></p><br><br><br><br>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W0PJ15J)
-
 ## :zap: GitHub Stats
 
 <p align="center"> 
