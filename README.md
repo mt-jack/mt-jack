@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm MT_JACK</h1>
+<h1 align="center">Hi 👋, I'm MT_JACK</h1> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W0PJ15J)
 
 <p align="center"> <a href="https://www.fiverr.com/kazi_shamim/" target="_blank"><img style="height:auto;" alt="" width="260" height="260" class="avatar avatar-user width-full border color-bg-default" src="https://avatars.githubusercontent.com/u/75236025?v=4"></a> </p>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W0PJ15J)
 
 <h3 align="center"> <a href="https://www.fiverr.com/kazi_shamim/" target="_blank"> I'm a Fivem Developer(GTA 5 FiveM server and FiveM scripts development or FiveM bugs fixing).</a></h3>
 
